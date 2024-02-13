@@ -6,7 +6,7 @@ Nesse projeto eu refatorei a calculadora feita em Factory Function e criei com *
 
 > Uma calculadora criada apartir do curso de JS na Udemy.
 
-Acesse pelo [Github Pages] (https://hirrua.github.io/Calculadora-Constructor/)
+Acesse pelo [Github Pages](https://hirrua.github.io/Calculadora-Constructor/)
 
 #### Um pouco sobre o que aprendi
 
